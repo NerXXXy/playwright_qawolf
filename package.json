@@ -1,0 +1,23 @@
+{
+  "name": "playwright_basic_empty_project",
+  "version": "1.0.0",
+  "description": "basic playwright empty project for copy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerXXXy/playwright_basic_empty_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NerXXXy/playwright_basic_empty_project/issues"
+  },
+  "homepage": "https://github.com/NerXXXy/playwright_basic_empty_project#readme",
+  "dependencies": {
+    "playwright": "^1.24.2"
+  }
+}
